@@ -11,7 +11,7 @@ p{
     font-size: 40%;
     text-align: center;}
 
-#imagen1{
+#imagem1{
     width: 100%;
     height: 20%;
     border: 2px solid black;
@@ -19,7 +19,9 @@ p{
 .itens{
     font-style: italic;
     text-align: left;
+    font-size: 25px;
 }
 .benefios{
     background-color: white;
+    font-size: 25px;
 }
